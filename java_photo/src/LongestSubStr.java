@@ -23,7 +23,6 @@ public class LongestSubStr {
 		// TODO Auto-generated method stub
 		String s1 = "567abracadabra123";
 		String s2 = "abacadabrabracabracadabrabrabracad";
-		
 		System.out.print(longestSubstr(s1, s2));
 		
 	}

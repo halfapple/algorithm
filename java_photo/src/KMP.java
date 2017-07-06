@@ -169,5 +169,7 @@ public class KMP {
         for (int i = 0; i < offset2; i++)
         	System.out.print(" ");
         System.out.println(pat);
+        
+        
     }
 }
